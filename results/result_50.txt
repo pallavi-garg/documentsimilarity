@@ -1,0 +1,44 @@
+Time taken by minhash for test/set1.txt (set size 4548316) and test/set2.txt (set size 6996526) is: 13686ms and similarity is 0
+Time taken by brute force for test/set1.txt (set size 4548316) and test/set2.txt (set size 6996526) is: 1398.86ms and similarity is 0
+
+
+Time taken by minhash for test/set1.txt (set size 4548316) and test/set3.txt (set size 6751098) is: 8001.77ms and similarity is 0.02
+Time taken by brute force for test/set1.txt (set size 4548316) and test/set3.txt (set size 6751098) is: 1707.55ms and similarity is 0.0418569
+
+
+Time taken by minhash for test/set1.txt (set size 4548316) and test/set4.txt (set size 6509846) is: 7666.55ms and similarity is 0.08
+Time taken by brute force for test/set1.txt (set size 4548316) and test/set4.txt (set size 6509846) is: 2287.91ms and similarity is 0.0898396
+
+
+Time taken by minhash for test/set1.txt (set size 4548316) and test/set5.txt (set size 6264334) is: 7532.75ms and similarity is 0.18
+Time taken by brute force for test/set1.txt (set size 4548316) and test/set5.txt (set size 6264334) is: 2284.06ms and similarity is 0.144547
+
+
+Time taken by minhash for test/set1.txt (set size 4548316) and test/set6.txt (set size 6015567) is: 7045.19ms and similarity is 0.18
+Time taken by brute force for test/set1.txt (set size 4548316) and test/set6.txt (set size 6015567) is: 2610.59ms and similarity is 0.2078
+
+
+Time taken by minhash for test/set1.txt (set size 4548316) and test/set7.txt (set size 5771443) is: 7281.24ms and similarity is 0.3
+Time taken by brute force for test/set1.txt (set size 4548316) and test/set7.txt (set size 5771443) is: 2788.49ms and similarity is 0.282437
+
+
+Time taken by minhash for test/set1.txt (set size 4548316) and test/set8.txt (set size 5527886) is: 6735.05ms and similarity is 0.34
+Time taken by brute force for test/set1.txt (set size 4548316) and test/set8.txt (set size 5527886) is: 2744.02ms and similarity is 0.37127
+
+
+Time taken by minhash for test/set1.txt (set size 4548316) and test/set9.txt (set size 5281552) is: 6225.44ms and similarity is 0.44
+Time taken by brute force for test/set1.txt (set size 4548316) and test/set9.txt (set size 5281552) is: 2881.76ms and similarity is 0.478499
+
+
+Time taken by minhash for test/set1.txt (set size 4548316) and test/set10.txt (set size 5038450) is: 5999.35ms and similarity is 0.6
+Time taken by brute force for test/set1.txt (set size 4548316) and test/set10.txt (set size 5038450) is: 3079.74ms and similarity is 0.612155
+
+
+Time taken by minhash for test/set1.txt (set size 4548316) and test/set11.txt (set size 4793324) is: 5557.29ms and similarity is 0.82
+Time taken by brute force for test/set1.txt (set size 4548316) and test/set11.txt (set size 4793324) is: 3200.66ms and similarity is 0.780216
+
+
+Time taken by minhash for test/set1.txt (set size 4548316) and test/set12.txt (set size 4548316) is: 5228.97ms and similarity is 1
+Time taken by brute force for test/set1.txt (set size 4548316) and test/set12.txt (set size 4548316) is: 3537.04ms and similarity is 1
+
+
